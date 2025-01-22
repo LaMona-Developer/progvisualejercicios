@@ -1,0 +1,7 @@
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\obj\Debug\T1_ejercicio3_lamona.csproj.AssemblyReference.cache
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\obj\Debug\T1_ejercicio3_lamona.csproj.CoreCompileInputs.cache
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\bin\Debug\T1_ejercicio3_lamona.exe.config
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\bin\Debug\T1_ejercicio3_lamona.exe
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\bin\Debug\T1_ejercicio3_lamona.pdb
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\obj\Debug\T1_ejercicio3_lamona.exe
+C:\Users\NW\source\repos\T1_ejercicio3_lamona\obj\Debug\T1_ejercicio3_lamona.pdb
